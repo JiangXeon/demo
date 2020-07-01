@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_start">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.USER_PRESENT</item>
+        <item>android.intent.action.MEDIA_MOUNTED</item>
+        <item>android.intent.action.BOOT_COMPLETED</item>
+    </string-array>
+</resources>

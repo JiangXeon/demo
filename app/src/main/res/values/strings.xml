@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="custom_server">自定义服务器：</string>
+    <string name="default_server">https://www.baidu.com</string>
+    <string name="default_tips">默认服务器 https://www.baidu.com</string>
+    <string name="jump">跳转界面</string>
+    <string name="http">拉取数据</string>
+    <string name="dialog">弹窗</string>
+    <string name="jni">Java-C</string>
+</resources>
